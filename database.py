@@ -5,7 +5,7 @@ import mysql.connector
 # -----------------------------
 # SWITCH MODE HERE
 # -----------------------------
-USE_CLOUD = False  # True = Supabase (online), False = XAMPP (local)
+USE_CLOUD = True  # True = Supabase (online), False = XAMPP (local)
 
 # -----------------------------
 # LOCAL XAMPP CONFIG (MySQL)
